@@ -1,0 +1,5 @@
+[
+    {"titulo": "Primer artículo", "archivo": "articulo1.md"},
+    {"titulo": "Segundo artículo", "archivo": "articulo2.md"},
+    {"titulo": "Tercer artículo", "archivo": "articulo3.md"}
+]
